@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>ColorsRGB</label>
+  <version>1.0</version>
+  <type>app</type>
+  <packagedBy>(R2024b)</packagedBy>
+  <identifier>5bc04ad0-d702-46ca-bed4-399159f8206c</identifier>
+  <image>resources/screenshot.png</image>
+  <icons>
+    <icon tag="0">resources/icon_48.png</icon>
+    <icon tag="1">resources/icon_24.png</icon>
+    <icon tag="2">resources/icon_16.png</icon>
+  </icons>
+</addonCore>
